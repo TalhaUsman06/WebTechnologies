@@ -1,2 +1,2 @@
-# Consolidate folder
-A folder to hold all the completed consolidate tasks.
+# Consolidate Folder
+A folder to hold all the completed Consolidate tasks.
